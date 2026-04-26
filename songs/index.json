@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "songs": [
     {
       "id": 1,
@@ -240,6 +240,12 @@
       "name": "The truth that you leave",
       "artist": "Pianoboy",
       "file": "40. The truth that you leave.mid"
+    },
+    {
+      "id": 41,
+      "name": "春日影",
+      "artist": "BanG Dream! It's MyGO!!!!!",
+      "file": "41. 春日影 - BanG Dream! It's MyGO!!!!!.mid"
     }
   ]
 }
