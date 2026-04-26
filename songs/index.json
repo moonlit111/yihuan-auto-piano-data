@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "songs": [
     {
       "id": 1,
@@ -228,6 +228,18 @@
       "name": "Shape of you",
       "artist": "",
       "file": "38. Shape of you.mid"
+    },
+    {
+      "id": 39,
+      "name": "繁星、新生，与你",
+      "artist": "异环",
+      "file": "39. 繁星、新生，与你.mid"
+    },
+    {
+      "id": 40,
+      "name": "The truth that you leave",
+      "artist": "Pianoboy",
+      "file": "40. The truth that you leave.mid"
     }
   ]
 }
