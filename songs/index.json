@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 5,
   "songs": [
     {
       "id": 1,
@@ -219,7 +219,7 @@
     },
     {
       "id": 37,
-      "name": "孤勇者mid",
+      "name": "孤勇者",
       "artist": "",
       "file": "37. 孤勇者mid.mid"
     },
@@ -246,6 +246,139 @@
       "name": "春日影",
       "artist": "BanG Dream! It's MyGO!!!!!",
       "file": "41. 春日影 - BanG Dream! It's MyGO!!!!!.mid"
+    },
+    {
+      "id": 42,
+      "name": "「春日影」",
+      "artist": "アニメ「BanG Dream! It's MyGO!!!!!」挿入歌",
+      "file": "42. 「春日影」- アニメ「BanG Dream! It's MyGO!!!!!」挿入歌.mid"
+    },
+    {
+      "id": 43,
+      "name": "愛言葉III",
+      "artist": "DECO27",
+      "file": "43. 愛言葉III - DECO27.mid"
+    },
+    {
+      "id": 44,
+      "name": "命に嫌われている",
+      "artist": "",
+      "file": "44. 命に嫌われている.mid"
+    },
+    {
+      "id": 45,
+      "name": "远航星的告别",
+      "artist": "",
+      "file": "45. 远航星的告别.mid"
+    },
+    {
+      "id": 46,
+      "name": "虹之间",
+      "artist": "",
+      "file": "46. 虹之间.mid"
+    },
+    {
+      "id": 47,
+      "name": "戒烟",
+      "artist": "",
+      "file": "47. 戒烟.mid"
+    },
+    {
+      "id": 48,
+      "name": "知我",
+      "artist": "动画《剑来》片尾曲",
+      "file": "48. 知我 - 动画《剑来》片尾曲.mid"
+    },
+    {
+      "id": 49,
+      "name": "Call of silence",
+      "artist": "泽野弘之",
+      "file": "49. Call of silence - 泽野弘之.mid"
+    },
+    {
+      "id": 50,
+      "name": "Cry For Me",
+      "artist": "feat. Ami",
+      "file": "50. Cry For Me (feat. Ami).mid"
+    },
+    {
+      "id": 51,
+      "name": "DIAMONDS",
+      "artist": "Rihanna",
+      "file": "51. DIAMONDS - Rihanna.mid"
+    },
+    {
+      "id": 52,
+      "name": "Running Up That Hill",
+      "artist": "Kate Bush",
+      "file": "52. Running Up That Hill - Kate Bush.mid"
+    },
+    {
+      "id": 53,
+      "name": "KiLLKiSS",
+      "artist": "",
+      "file": "53. KiLLKiSS.mid"
+    },
+    {
+      "id": 54,
+      "name": "致以无名的抗争者",
+      "artist": "",
+      "file": "54. 致以无名的抗争者.mid"
+    },
+    {
+      "id": 55,
+      "name": "JANE DOE",
+      "artist": "",
+      "file": "55. JANE DOE.mid"
+    },
+    {
+      "id": 56,
+      "name": "偏爱",
+      "artist": "张芸京",
+      "file": "56. 偏爱 - 张芸京.mid"
+    },
+    {
+      "id": 57,
+      "name": "团子大家族",
+      "artist": "CLANNAD",
+      "file": "57. 团子大家族 - CLANNAD.mid"
+    },
+    {
+      "id": 58,
+      "name": "情花",
+      "artist": "本兮",
+      "file": "58. 情花 - 本兮.mid"
+    },
+    {
+      "id": 59,
+      "name": "Toxic till the end",
+      "artist": "",
+      "file": "59. Toxic till the end.mid"
+    },
+    {
+      "id": 60,
+      "name": "secret base ~君がくれたもの~",
+      "artist": "未闻花名",
+      "file": "60. secret base ~君がくれたもの~ 未闻花名.mid"
+    },
+    {
+      "id": 61,
+      "name": "唯一",
+      "artist": "邓紫棋",
+      "file": "61. 唯一 - 邓紫棋.mid"
+    },
+    {
+      "id": 62,
+      "name": "天空没有极限",
+      "artist": "邓紫棋",
+      "file": "62. 天空没有极限 - 邓紫棋.mid"
+    },
+    {
+      "id": 63,
+      "name": "心做し",
+      "artist": "Majiko",
+      "file": "63. 心做し - Majiko.mid"
     }
-  ]
+  ],
+  "failed": []
 }
