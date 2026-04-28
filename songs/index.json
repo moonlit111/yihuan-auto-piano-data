@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "songs": [
     {
       "id": 1,
@@ -378,6 +378,90 @@
       "name": "心做し",
       "artist": "Majiko",
       "file": "63. 心做し - Majiko.mid"
+    },
+    {
+      "id": 64,
+      "name": "アンノウン・マザーグース",
+      "artist": "鹅妈妈",
+      "file": "64. アンノウン・マザーグース - 鹅妈妈.mid"
+    },
+    {
+      "id": 65,
+      "name": "Departures ~あなたにおくるアイの歌~",
+      "artist": "",
+      "file": "65. Departures ~あなたにおくるアイの歌.mid"
+    },
+    {
+      "id": 66,
+      "name": "Réminiscences de Don Juan",
+      "artist": "Liszt",
+      "file": "66. Liszt Réminiscences de Don Juan.mid"
+    },
+    {
+      "id": 67,
+      "name": "Miku",
+      "artist": "",
+      "file": "67. Miku.mid"
+    },
+    {
+      "id": 68,
+      "name": "Mr Broken Heart",
+      "artist": "",
+      "file": "68. Mr Broken Heart.mid"
+    },
+    {
+      "id": 69,
+      "name": "ワールドイズマイン",
+      "artist": "",
+      "file": "69. ワールドイズマイン.mid"
+    },
+    {
+      "id": 70,
+      "name": "六兆年と一夜物语",
+      "artist": "",
+      "file": "70. 六兆年と一夜物语.mid"
+    },
+    {
+      "id": 71,
+      "name": "冬日",
+      "artist": "鞠婧炜",
+      "file": "71. 冬日 - 鞠婧炜.mid"
+    },
+    {
+      "id": 72,
+      "name": "千本樱",
+      "artist": "",
+      "file": "72. 千本樱.mid"
+    },
+    {
+      "id": 73,
+      "name": "情绪回收站",
+      "artist": "",
+      "file": "73. 情绪回收站.mid"
+    },
+    {
+      "id": 74,
+      "name": "我的悲伤是水做的",
+      "artist": "",
+      "file": "74. 我的悲伤是水做的.mid"
+    },
+    {
+      "id": 75,
+      "name": "空の箱",
+      "artist": "",
+      "file": "75. 空の箱.mid"
+    },
+    {
+      "id": 76,
+      "name": "色は匂へど 散りぬるを",
+      "artist": "东方project 幻想万华镜 主题曲",
+      "file": "76. 色は匂へど 散りぬるを - 东方project 幻想万华镜 主题曲.mid"
+    },
+    {
+      "id": 77,
+      "name": "蜘蛛糸モノポリー",
+      "artist": "蜘蛛丝Monopoly",
+      "file": "77. 蜘蛛糸モノポリー - 蜘蛛丝Monopoly.mid"
     }
   ],
   "failed": []

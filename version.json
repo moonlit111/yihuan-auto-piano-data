@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3",
+  "latest_version": "1.4",
   "download_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases/download/songs/MidiPianoPlayer.exe",
   "release_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases",
-  "changelog": "新增曲目：春日影 (BanG Dream! It's MyGO!!!!!)、繁星/新生/与你、The truth that you leave；新增曲目自动下载、版本更新功能"
+  "changelog": "v1.4更新：全局快捷键(Ctrl+Alt+F9/F10/F11)、设置面板(UI缩放/自动更新)、速度滑块重设计、大文件解析优化、窗口精确匹配"
 }
