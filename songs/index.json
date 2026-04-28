@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "songs": [
     {
       "id": 1,
@@ -462,6 +462,114 @@
       "name": "蜘蛛糸モノポリー",
       "artist": "蜘蛛丝Monopoly",
       "file": "77. 蜘蛛糸モノポリー - 蜘蛛丝Monopoly.mid"
+    },
+    {
+      "id": 78,
+      "name": "Childhood Dreams",
+      "artist": "",
+      "file": "78. Childhood Dreams.mid"
+    },
+    {
+      "id": 79,
+      "name": "Exile",
+      "artist": "Taylor Swift",
+      "file": "79. Exile - Taylor Swift.mid"
+    },
+    {
+      "id": 80,
+      "name": "Grievous Lady",
+      "artist": "",
+      "file": "80. Grievous Lady.mid"
+    },
+    {
+      "id": 81,
+      "name": "Gwyn, Lord of Cinder",
+      "artist": "",
+      "file": "81. Gwyn,Lord of Cinder.mid"
+    },
+    {
+      "id": 82,
+      "name": "Khronostasis Katharsis",
+      "artist": "",
+      "file": "82. Khronostasis Katharsis.mid"
+    },
+    {
+      "id": 83,
+      "name": "Last dance",
+      "artist": "Xmou",
+      "file": "83. Last dance - Xmou.mid"
+    },
+    {
+      "id": 84,
+      "name": "Wind Island 风屿",
+      "artist": "",
+      "file": "84. Wind Island_风屿.mid"
+    },
+    {
+      "id": 85,
+      "name": "number one girl",
+      "artist": "",
+      "file": "85. number one girl.mid"
+    },
+    {
+      "id": 86,
+      "name": "孤儿仔",
+      "artist": "",
+      "file": "86. 孤儿仔（觉得吵关track18）.mid"
+    },
+    {
+      "id": 87,
+      "name": "小半",
+      "artist": "陈粒",
+      "file": "87. 小半 - 陈粒.mid"
+    },
+    {
+      "id": 88,
+      "name": "心忆 Remembrance of the Heart",
+      "artist": "",
+      "file": "88. 心忆 Remembrance of the Heart.mid"
+    },
+    {
+      "id": 89,
+      "name": "昔涟",
+      "artist": "",
+      "file": "89. 昔涟.mid"
+    },
+    {
+      "id": 90,
+      "name": "春弦",
+      "artist": "明日方舟 Arknights",
+      "file": "90. 春弦 - 明日方舟Arknights.mid"
+    },
+    {
+      "id": 91,
+      "name": "永远不回头",
+      "artist": "飞驰人生3插曲",
+      "file": "91. 永远不回头 - 飞驰人生3插曲.mid"
+    },
+    {
+      "id": 92,
+      "name": "神のまにまに",
+      "artist": "",
+      "file": "92. 神のまにまに.mid"
+    },
+    {
+      "id": 93,
+      "name": "苦瓜",
+      "artist": "陈奕迅",
+      "file": "93. 苦瓜 - 陈奕迅.mid"
+    },
+    {
+      "id": 94,
+      "name": "酣梦于彼岸深红",
+      "artist": "",
+      "file": "94. 酣梦于彼岸深红.mid"
+    },
+    {
+      "id": 95,
+      "name": "麦恩莉",
+      "artist": "方大同",
+      "file": "95. 麦恩莉 - 方大同.mid"
     }
   ],
   "failed": []

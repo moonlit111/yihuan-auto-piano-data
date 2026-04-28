@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.4",
+  "latest_version": "1.4.1",
   "download_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases/download/songs/NTE_Piano_player.exe",
   "release_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases",
-  "changelog": "v1.4更新：全局快捷键(Ctrl+Alt+F9/F10/F11)、设置面板(UI缩放/自动更新)、速度滑块重设计、大文件解析优化、窗口精确匹配"
+  "changelog": "v1.4.1更新：快捷键改为F6/F7(不再占用Ctrl/Alt)、播放进度条、新增18首曲目"
 }
