@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "songs": [
     {
       "id": 1,
@@ -570,6 +570,108 @@
       "name": "麦恩莉",
       "artist": "方大同",
       "file": "95. 麦恩莉 - 方大同.mid"
+    },
+    {
+      "id": 96,
+      "name": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "file": "96. Bohemian Rhapsody（波西米亚狂想曲）.mid"
+    },
+    {
+      "id": 97,
+      "name": "Da Capo",
+      "artist": "",
+      "file": "97. Da Capo.mid"
+    },
+    {
+      "id": 98,
+      "name": "Fly, My Wings",
+      "artist": "",
+      "file": "98. Fly, My Wings.mid"
+    },
+    {
+      "id": 99,
+      "name": "MELT",
+      "artist": "Hatsune Miku Vocaloid",
+      "file": "99. MELT - Hatsune Miku Vocaloid.mid"
+    },
+    {
+      "id": 100,
+      "name": "MOONHALO",
+      "artist": "",
+      "file": "100. MOONHALO.mid"
+    },
+    {
+      "id": 101,
+      "name": "SAIKAI",
+      "artist": "",
+      "file": "101. SAIKAI.mid"
+    },
+    {
+      "id": 102,
+      "name": "Storyteller",
+      "artist": "",
+      "file": "102. Storyteller.mid"
+    },
+    {
+      "id": 103,
+      "name": "See You Again",
+      "artist": "",
+      "file": "103. see you again.mid"
+    },
+    {
+      "id": 104,
+      "name": "三妖精SAY YA!!!",
+      "artist": "",
+      "file": "104. 三妖精SAY YA!!!.mid"
+    },
+    {
+      "id": 105,
+      "name": "冬の花",
+      "artist": "",
+      "file": "105. 冬の花.mid"
+    },
+    {
+      "id": 106,
+      "name": "反方向的钟",
+      "artist": "周杰伦",
+      "file": "106. 反方向的钟 - 周杰伦.mid"
+    },
+    {
+      "id": 107,
+      "name": "多幸运",
+      "artist": "",
+      "file": "107. 多幸运.mid"
+    },
+    {
+      "id": 108,
+      "name": "太阳照常升起",
+      "artist": "久石让",
+      "file": "108. 太阳照常升起 - 久石让.mid"
+    },
+    {
+      "id": 109,
+      "name": "快乐的扑满",
+      "artist": "",
+      "file": "109. 快乐的扑满.mid"
+    },
+    {
+      "id": 110,
+      "name": "海愿",
+      "artist": "",
+      "file": "110. 海愿.mid"
+    },
+    {
+      "id": 111,
+      "name": "苦行东南山",
+      "artist": "仅包含主旋律",
+      "file": "111. 苦行东南山（仅包含主旋律）.mid"
+    },
+    {
+      "id": 112,
+      "name": "雑踏、僕らの街",
+      "artist": "",
+      "file": "112. 雑踏、僕らの街.mid"
     }
   ],
   "failed": []
