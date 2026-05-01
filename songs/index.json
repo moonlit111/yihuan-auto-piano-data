@@ -1,852 +1,1056 @@
 {
-  "version": 9,
+  "version": 14,
   "notice": "本曲库MIDI文件来源于Midishow，由NTE Piano Player项目整理、调整编排。版权归原曲作者及编曲者所有。本曲库仅供NTE Piano Player用户个人使用，禁止任何形式的搬运、再分发或商业用途。如有版权问题请联系删除。",
   "songs": [
     {
       "id": 1,
       "name": "天空之城",
       "artist": "久石让",
-      "file": "01. 天空之城 - 久石让.mid"
+      "file": "01. 天空之城 - 久石让 - 吉卜力动画配乐.mid"
     },
     {
       "id": 2,
       "name": "宫崎骏动画组曲",
-      "artist": "",
-      "file": "02. 宫崎骏动画组曲.mid"
+      "artist": "久石让",
+      "file": "02. 宫崎骏动画组曲 - 久石让 - 吉卜力动画配乐.mid"
     },
     {
       "id": 3,
       "name": "晴れゆく空",
-      "artist": "电影《天气之子》插曲",
-      "file": "03. 晴れゆく空 - 电影《天气之子》插曲.mid"
+      "artist": "RADWIMPS",
+      "file": "03. 晴れゆく空 - RADWIMPS - 天气之子 OST.mid"
     },
     {
       "id": 4,
       "name": "家族の时间",
-      "artist": "电影《天气之子》插曲",
-      "file": "04. 家族の时间 - 电影《天气之子》插曲.mid"
+      "artist": "RADWIMPS",
+      "file": "04. 家族の时间 - RADWIMPS - 天气之子 OST.mid"
     },
     {
       "id": 5,
       "name": "爱能做到的还有什么",
-      "artist": "电影《天气之子》插曲",
-      "file": "05. 爱能做到的还有什么 - 电影《天气之子》插曲.mid"
+      "artist": "RADWIMPS",
+      "file": "05. 爱能做到的还有什么 (爱にできることはまだあるかい) - RADWIMPS - 天气之子 OST.mid"
     },
     {
       "id": 6,
       "name": "花火大会",
-      "artist": "电影《天气之子》插曲",
-      "file": "06. 花火大会 - 电影《天气之子》插曲.mid"
+      "artist": "RADWIMPS",
+      "file": "06. 花火大会 - RADWIMPS - 天气之子 OST.mid"
     },
     {
       "id": 7,
       "name": "すずめ",
-      "artist": "电影《铃芽之旅》主题曲",
-      "file": "07. すずめ - 电影《铃芽之旅》主题曲.mid"
+      "artist": "RADWIMPS",
+      "file": "07. すずめ (铃芽之旅) - RADWIMPS - 铃芽之旅 OST.mid"
     },
     {
       "id": 8,
       "name": "打上花火",
-      "artist": "电影《烟花》主题曲",
-      "file": "08. 打上花火 - 电影《烟花》主题曲.mid"
+      "artist": "DAOKO×米津玄师",
+      "file": "08. 打上花火 - DAOKO×米津玄师 - 烟花 OST.mid"
     },
     {
       "id": 9,
       "name": "三葉のテーマ",
-      "artist": "电影《你的名字》插曲",
-      "file": "09. 三葉のテーマ - 电影《你的名字》插曲.mid"
+      "artist": "RADWIMPS",
+      "file": "09. 三葉のテーマ（三叶的主题曲） - RADWIMPS - 你的名字。OST.mid"
     },
     {
       "id": 10,
       "name": "想い出は远くの日々",
-      "artist": "剧场动画《秒速五厘米》插曲",
-      "file": "10. 想い出は远くの日々 - 剧场动画《秒速五厘米》插曲.mid"
+      "artist": "山崎まさよし",
+      "file": "10. 想い出は远くの日々 - 山崎まさよし - 秒速五厘米 OST.mid"
     },
     {
       "id": 100,
       "name": "MOONHALO",
-      "artist": "",
-      "file": "100. MOONHALO.mid"
+      "artist": "miHoYo",
+      "file": "100. Moonhalo - miHoYo - 崩坏：星穹铁道 OST.mid"
     },
     {
       "id": 101,
       "name": "SAIKAI",
-      "artist": "",
-      "file": "101. SAIKAI.mid"
+      "artist": "Mili",
+      "file": "101. Saikai - Mili - Mili专辑.mid"
     },
     {
       "id": 102,
       "name": "Storyteller",
-      "artist": "",
-      "file": "102. Storyteller.mid"
+      "artist": "塞壬唱片",
+      "file": "102. storyteller - 塞壬唱片 - 明日方舟 OST.mid"
     },
     {
       "id": 103,
       "name": "see you again",
-      "artist": "",
-      "file": "103. see you again.mid"
+      "artist": "Wiz Khalifa",
+      "file": "103. see you again - Wiz Khalifa - Furious 7 OST.mid"
     },
     {
       "id": 104,
       "name": "三妖精SAY YA!!!",
-      "artist": "",
-      "file": "104. 三妖精SAY YA!!!.mid"
+      "artist": "森羅万象",
+      "file": "104. 三妖精SAY YA - 森羅万象 - 东方Project.mid"
     },
     {
       "id": 105,
       "name": "冬の花",
-      "artist": "",
-      "file": "105. 冬の花.mid"
+      "artist": "宮本浩次",
+      "file": "105. 冬の花 - 宮本浩次 - 冬の花.mid"
     },
     {
       "id": 106,
       "name": "反方向的钟",
       "artist": "周杰伦",
-      "file": "106. 反方向的钟 - 周杰伦.mid"
+      "file": "106. 反方向的钟 - 周杰伦 - Jay.mid"
     },
     {
       "id": 107,
       "name": "多幸运",
-      "artist": "",
-      "file": "107. 多幸运.mid"
+      "artist": "韩安旭",
+      "file": "107. 多幸运 - 韩安旭 - 多幸运.mid"
     },
     {
       "id": 108,
       "name": "太阳照常升起",
       "artist": "久石让",
-      "file": "108. 太阳照常升起 - 久石让.mid"
+      "file": "108. 太阳照常升起 - 久石让 - 太阳照常升起 OST.mid"
     },
     {
       "id": 109,
       "name": "快乐的扑满",
-      "artist": "",
-      "file": "109. 快乐的扑满.mid"
+      "artist": "邵丽棠",
+      "file": "109. 快乐的扑满 - 邵丽棠 - 快乐的扑满.mid"
     },
     {
       "id": 11,
       "name": "One more time one more chance",
-      "artist": "剧场动画《秒速五厘米》结尾曲",
-      "file": "11. One more time one more chance - 剧场动画《秒速五厘米》结尾曲.mid"
+      "artist": "山崎まさよし",
+      "file": "11. One more time one more chance - 山崎まさよし - 秒速五厘米 OST.mid"
     },
     {
       "id": 110,
       "name": "海愿",
-      "artist": "",
-      "file": "110. 海愿.mid"
+      "artist": "塞壬唱片",
+      "file": "110. 海愿 - 塞壬唱片 - 明日方舟 OST.mid"
     },
     {
       "id": 111,
       "name": "苦行东南山（仅包含主旋律）",
-      "artist": "",
-      "file": "111. 苦行东南山（仅包含主旋律）.mid"
+      "artist": "殷正洋",
+      "file": "111. 苦行东南山 - 殷正洋 - 苦行东南山.mid"
     },
     {
       "id": 112,
       "name": "雑踏、僕らの街",
-      "artist": "",
-      "file": "112. 雑踏、僕らの街.mid"
+      "artist": "トゲナシトゲアリ",
+      "file": "112. 雑踏、僕らの街 - トゲナシトゲアリ - GIRLS BAND CRY OST.mid"
     },
     {
       "id": 113,
       "name": "MILABO",
-      "artist": "",
-      "file": "113. MILABO.nmf"
+      "artist": "ずっと真夜中でいいのに",
+      "file": "113. MILABO - ずっと真夜中でいいのに - MILABO.nmf"
     },
     {
       "id": 114,
       "name": "STYX HELIX",
-      "artist": "从零开始的异世界生活ED",
-      "file": "114. STYX HELIX - 从零开始的异世界生活ED.nmf"
+      "artist": "MYTH & ROID",
+      "file": "114. STYX HELIX - MYTH & ROID - Re：Zero OST.nmf"
     },
     {
       "id": 115,
       "name": "Stay A Little Bit Longer",
-      "artist": "",
-      "file": "115. Stay A Little Bit Longer.nmf"
+      "artist": "Rosé",
+      "file": "115. Stay A Little Bit Longer - Rosé - rosie.nmf"
     },
     {
       "id": 116,
       "name": "one last kiss",
-      "artist": "",
-      "file": "116. one last kiss.nmf"
+      "artist": "宇多田光",
+      "file": "116. One Last Kiss - 宇多田光 - One Last Kiss.nmf"
     },
     {
       "id": 117,
       "name": "シリウスの心臓_天狼星的心脏",
       "artist": "异世界情绪",
-      "file": "117. シリウスの心臓_天狼星的心脏 - 异世界情绪.nmf"
+      "file": "117. シリウスの心臓 - 异世界情绪 - シリウスの心臓.nmf"
     },
     {
       "id": 118,
       "name": "中城 Midtown",
-      "artist": "",
-      "file": "118. 中城 Midtown.nmf"
+      "artist": "Adam Burgess／Overwatch",
+      "file": "118. Midtown(中城) - Adam Burgess／Overwatch - Overwatch OST.nmf"
     },
     {
       "id": 119,
       "name": "你看到的我 (DJ版)（主旋律）",
-      "artist": "",
-      "file": "119. 你看到的我 (DJ版)（主旋律）.nmf"
+      "artist": "黄勇,任浩铭",
+      "file": "119. 你看到的我 - 黄勇,任浩铭 - 你看到的我.nmf"
     },
     {
       "id": 12,
       "name": "四月是你的谎言《组曲》 by：沃仙-超威老炮",
-      "artist": "",
-      "file": "12. 四月是你的谎言《组曲》 by：沃仙-超威老炮.mid"
+      "artist": "沃仙",
+      "file": "12. 四月是你的谎言 组曲 - 沃仙 - 四月是你的谎言 钢琴组曲.mid"
     },
     {
       "id": 120,
       "name": "可不可以",
-      "artist": "",
-      "file": "120. 可不可以.nmf"
+      "artist": "张紫豪",
+      "file": "120. 可不可以 - 张紫豪 - 可不可以.nmf"
     },
     {
       "id": 121,
       "name": "夜に駆ける",
       "artist": "Yoasobi",
-      "file": "121. 夜に駆ける - Yoasobi.nmf"
+      "file": "121. 夜に駆ける - Yoasobi - THE BOOK.nmf"
     },
     {
       "id": 122,
       "name": "如果声音不记得",
-      "artist": "",
-      "file": "122. 如果声音不记得.nmf"
+      "artist": "吴青峰",
+      "file": "122. 如果声音不记得 - 吴青峰 - 如果声音不记得.nmf"
     },
     {
       "id": 123,
       "name": "废墟图书馆",
-      "artist": "",
-      "file": "123. 废墟图书馆.nmf"
+      "artist": "Project Moon",
+      "file": "123. 废墟图书馆 - Project Moon - Library of Ruina OST.nmf"
     },
     {
       "id": 124,
       "name": "循迹",
-      "artist": "",
-      "file": "124. 循迹.nmf"
+      "artist": "王子健",
+      "file": "124. 循迹 - 王子健 - 循迹.nmf"
     },
     {
       "id": 125,
       "name": "悠忽舞于梦中",
-      "artist": "",
-      "file": "125. 悠忽舞于梦中.nmf"
+      "artist": "鸣潮先约电台",
+      "file": "125. 悠忽舞于梦中 - 鸣潮先约电台 - 鸣潮 OST.nmf"
     },
     {
       "id": 126,
       "name": "愿戴荣光坠入天渊",
-      "artist": "",
-      "file": "126. 愿戴荣光坠入天渊.nmf"
+      "artist": "真伪之塔",
+      "file": "126. 愿戴荣光坠入天渊 - 真伪之塔 - 鸣潮 OST.nmf"
     },
     {
       "id": 127,
       "name": "晴る",
-      "artist": "",
-      "file": "127. 晴る.nmf"
+      "artist": "ヨルシカ",
+      "file": "127. 晴る (放晴) - ヨルシカ - エルマ.nmf"
     },
     {
       "id": 128,
       "name": "梦的光点",
-      "artist": "神兵小将OP",
-      "file": "128. 梦的光点 - 神兵小将OP.nmf"
+      "artist": "王心凌",
+      "file": "128. 梦的光点 - 王心凌 - 梦的光点.nmf"
     },
     {
       "id": 129,
       "name": "漂泊的终点",
-      "artist": "",
-      "file": "129. 漂泊的终点.nmf"
+      "artist": "鸣潮",
+      "file": "129. 漂泊的终点 - 鸣潮 - 鸣潮 OST.nmf"
     },
     {
       "id": 13,
       "name": "穿越时空的思念",
-      "artist": "",
-      "file": "13. 穿越时空的思念.mid"
+      "artist": "和田薫",
+      "file": "13. 穿越时空的思念 - 和田薫 - 犬夜叉 OST.mid"
     },
     {
       "id": 130,
       "name": "致以无名的抗争者",
-      "artist": "",
-      "file": "130. 致以无名的抗争者.nmf"
+      "artist": "鸣潮",
+      "file": "130. 致以无名的抗争者 - 鸣潮 - 鸣潮 OST.nmf"
     },
     {
       "id": 131,
       "name": "FF14 PARADE (パレード) [群上传]",
       "artist": "Yorushika (ヨルシカ)",
-      "file": "131. FF14 PARADE (パレード) - Yorushika (ヨルシカ) [群上传].nmf"
+      "file": "131.  [群上传] FF14 PARADE (パレード) - Yorushika (ヨルシカ) - ヨルシカ专辑.nmf"
     },
     {
       "id": 132,
       "name": "FF14双人-ヨルシカ-だから僕は音楽を辞めた（所以我放弃了音乐） [群上传]",
-      "artist": "",
-      "file": "132. FF14双人-ヨルシカ-だから僕は音楽を辞めた（所以我放弃了音乐） [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "132.  [群上传] FF14双人 - ヨルシカ - ヨルシカ专辑.nmf"
     },
     {
       "id": 133,
       "name": "fade [群上传]",
-      "artist": "",
-      "file": "133. fade [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "133.  [群上传] fade - ヨルシカ - ヨルシカ专辑.nmf"
     },
     {
       "id": 134,
       "name": "【FF14大概适配】花人局-ヨルシカ [群上传]",
-      "artist": "",
-      "file": "134. 【FF14大概适配】花人局-ヨルシカ [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "134.  [群上传] 【FF14大概适配】花人局 - ヨルシカ - ヨルシカ专辑.nmf"
     },
     {
       "id": 135,
       "name": "【ヨルシカ】嘘月 [群上传]",
-      "artist": "",
-      "file": "135. 【ヨルシカ】嘘月 [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "135.  [群上传] 嘘月 - ヨルシカ - ヨルシカ专辑.nmf"
     },
     {
       "id": 136,
       "name": "因为夏日将终-もうじき夏が終わるから [群上传]",
-      "artist": "",
-      "file": "136. 因为夏日将终-もうじき夏が終わるから [群上传].nmf"
+      "artist": "もうじき夏が終わるから",
+      "file": "136.  [群上传] 因为夏日将终 - もうじき夏が終わるから - ヨルシカ专辑.nmf"
     },
     {
       "id": 137,
       "name": "思想犯 [群上传]",
       "artist": "ヨルシカ",
-      "file": "137. 思想犯 - ヨルシカ [群上传].nmf"
+      "file": "137.  [群上传] 思想犯 - ヨルシカ - 盗作.nmf"
     },
     {
       "id": 138,
       "name": "悬溺(网络下载) [群上传]",
-      "artist": "",
-      "file": "138. 悬溺(网络下载) [群上传].nmf"
+      "artist": "队长",
+      "file": "138.  [群上传] 悬溺 - 队长 - 悬溺.nmf"
     },
     {
       "id": 139,
       "name": "春泥棒 (Spring Thief) [群上传]",
-      "artist": "",
-      "file": "139. 春泥棒 (Spring Thief) [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "139.  [群上传] 春泥棒 (Spring Thief) - ヨルシカ - 盗作.nmf"
     },
     {
       "id": 14,
       "name": "大鱼",
-      "artist": "电影《大鱼海棠》主题曲",
-      "file": "14. 大鱼 - 电影《大鱼海棠》主题曲.mid"
+      "artist": "周深",
+      "file": "14. 大鱼 - 周深 - 大鱼海棠 OST.mid"
     },
     {
       "id": 140,
       "name": "老人と海 (ヨルシカ) [群上传]",
-      "artist": "",
-      "file": "140. 老人と海 (ヨルシカ) [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "140.  [群上传] 老人と海 - ヨルシカ - エルマ.nmf"
     },
     {
       "id": 141,
       "name": "雨とカプチーノ  ヨルシカ(Yorushika) [群上传]",
-      "artist": "",
-      "file": "141. 雨とカプチーノ  ヨルシカ(Yorushika) [群上传].nmf"
+      "artist": "ヨルシカ",
+      "file": "141.  [群上传] 雨とカプチーノ - ヨルシカ - エルマ.nmf"
     },
     {
       "id": 15,
       "name": "Remember me",
-      "artist": "电影《寻梦环游记》插曲",
-      "file": "15. Remember me - 电影《寻梦环游记》插曲.mid"
+      "artist": "Kristen Anderson",
+      "file": "15. Remember Me (寻梦环游记) - Kristen Anderson - 寻梦环游记 OST.mid"
     },
     {
       "id": 16,
       "name": "Merry Christmas Mr.Lawrence",
-      "artist": "",
-      "file": "16. Merry Christmas Mr.Lawrence.mid"
+      "artist": "坂本龙一",
+      "file": "16. Merry Christmas Mr. Lawrence - 坂本龙一 - 圣诞快乐，劳伦斯先生 OST.mid"
     },
     {
       "id": 17,
       "name": "梦中的婚礼",
-      "artist": "",
-      "file": "17. 梦中的婚礼.mid"
+      "artist": "Richard Clayderman",
+      "file": "17. 梦中的婚礼 (Mariage d'amour) - Richard Clayderman - 理查德·克莱德曼经典.mid"
     },
     {
       "id": 18,
       "name": "贝加摩组曲 第三乐章 《月光》",
       "artist": "德彪西",
-      "file": "18. 贝加摩组曲 第三乐章 《月光》 - 德彪西.mid"
+      "file": "18. 贝加摩组曲 第三乐章 《月光》 - 德彪西 - 贝加摩组曲.mid"
     },
     {
       "id": 19,
       "name": "Flower Dance",
-      "artist": "",
-      "file": "19. Flower Dance.mid"
+      "artist": "DJ Okawari",
+      "file": "19. Flower Dance - DJ Okawari - DJ Okawari专辑.mid"
     },
     {
       "id": 20,
       "name": "Born a stranger",
-      "artist": "游戏 To the Moon《去月球》 插曲",
-      "file": "20. Born a stranger - 游戏 To the Moon《去月球》 插曲.mid"
+      "artist": "Kan Rui Gao",
+      "file": "20. Born a Stranger - Kan Rui Gao - To the Moon OST.mid"
     },
     {
       "id": 21,
       "name": "For River",
-      "artist": "游戏《To the Moon》插曲",
-      "file": "21. For River - 游戏《To the Moon》插曲.mid"
+      "artist": "Kan Rui Gao",
+      "file": "21. For River - Kan Rui Gao - To the Moon OST.mid"
     },
     {
       "id": 22,
       "name": "一路向北",
       "artist": "周杰伦",
-      "file": "22. 一路向北 - 周杰伦.mid"
+      "file": "22. 一路向北 - 周杰伦 - 十一月的萧邦.mid"
     },
     {
       "id": 23,
       "name": "夜曲",
       "artist": "周杰伦",
-      "file": "23. 夜曲 - 周杰伦.mid"
+      "file": "23. 夜曲 - 周杰伦 - 十一月的萧邦.mid"
     },
     {
       "id": 24,
       "name": "晴天",
       "artist": "周杰伦",
-      "file": "24. 晴天 - 周杰伦.mid"
+      "file": "24. 晴天 - 周杰伦 - 叶惠美.mid"
     },
     {
       "id": 25,
       "name": "稻香",
       "artist": "周杰伦",
-      "file": "25. 稻香 - 周杰伦.mid"
+      "file": "25. 稻香 - 周杰伦 - 魔杰座.mid"
     },
     {
       "id": 26,
       "name": "蒲公英的约定",
       "artist": "周杰伦",
-      "file": "26. 蒲公英的约定 - 周杰伦.mid"
+      "file": "26. 蒲公英的约定 - 周杰伦 - 我很忙.mid"
     },
     {
       "id": 27,
       "name": "青花瓷",
       "artist": "周杰伦",
-      "file": "27. 青花瓷 - 周杰伦.mid"
+      "file": "27. 青花瓷 - 周杰伦 - 我很忙.mid"
     },
     {
       "id": 28,
       "name": "后来",
       "artist": "刘若英",
-      "file": "28. 后来 - 刘若英.mid"
+      "file": "28. 后来 - 刘若英 - 我等你.mid"
     },
     {
       "id": 29,
       "name": "起风了",
       "artist": "买辣椒也用卷",
-      "file": "29. 起风了 - 买辣椒也用卷.mid"
+      "file": "29. 起风了 - 买辣椒也用卷 - 起风了.mid"
     },
     {
       "id": 30,
       "name": "那些年",
       "artist": "胡夏",
-      "file": "30. 那些年 - 胡夏.mid"
+      "file": "30. 那些年 - 胡夏 - 那些年，我们一起追的女孩 OST.mid"
     },
     {
       "id": 31,
       "name": "童话",
       "artist": "光良",
-      "file": "31. 童话 - 光良.mid"
+      "file": "31. 童话 - 光良 - 童话.mid"
     },
     {
       "id": 32,
       "name": "江南",
       "artist": "林俊杰",
-      "file": "32. 江南 - 林俊杰.mid"
+      "file": "32. 江南 - 林俊杰 - 江南.mid"
     },
     {
       "id": 33,
       "name": "富士山下",
       "artist": "陈奕迅",
-      "file": "33. 富士山下 - 陈奕迅.mid"
+      "file": "33. 富士山下 - 陈奕迅 - What's Going On...？.mid"
     },
     {
       "id": 34,
       "name": "小幸运",
       "artist": "田馥甄",
-      "file": "34. 小幸运 - 田馥甄.mid"
+      "file": "34. 小幸运 - 田馥甄 - 小幸运.mid"
     },
     {
       "id": 35,
       "name": "刻在我心底的名字",
       "artist": "Mayday",
-      "file": "35. 刻在我心底的名字 - Mayday.mid"
+      "file": "35. 刻在我心底的名字 - Mayday - 刻在我心底的名字 OST.mid"
     },
     {
       "id": 36,
       "name": "海阔天空",
       "artist": "beyond",
-      "file": "36. 海阔天空 - beyond.mid"
+      "file": "36. 海阔天空 - beyond - 乐与怒.mid"
     },
     {
       "id": 37,
       "name": "孤勇者mid",
-      "artist": "",
-      "file": "37. 孤勇者mid.mid"
+      "artist": "陈奕迅",
+      "file": "37. 孤勇者 - 陈奕迅 - 孤勇者.mid"
     },
     {
       "id": 38,
       "name": "Shape of you",
-      "artist": "",
-      "file": "38. Shape of you.mid"
+      "artist": "Ed Sheeran",
+      "file": "38. Shape of You - Ed Sheeran - ÷.mid"
     },
     {
       "id": 39,
       "name": "繁星、新生，与你",
-      "artist": "",
-      "file": "39. 繁星、新生，与你.mid"
+      "artist": "异环",
+      "file": "39. 繁星、新生，与你 - 异环 - 异环 OST.mid"
     },
     {
       "id": 40,
       "name": "The truth that you leave",
-      "artist": "",
-      "file": "40. The truth that you leave.mid"
+      "artist": "Pianoboy",
+      "file": "40. The truth that you leave - Pianoboy - Pianoboy钢琴曲.mid"
     },
     {
       "id": 41,
       "name": "春日影",
       "artist": "BanG Dream! It's MyGO!!!!!",
-      "file": "41. 春日影 - BanG Dream! It's MyGO!!!!!.mid"
+      "file": "41. 春日影 - BanG Dream! It's MyGO!!!!! - BanG Dream! It's MyGO!!!!! OST.mid"
     },
     {
       "id": 42,
       "name": "「春日影」- アニメ「BanG Dream! It's MyGO!!!!!」挿入歌",
-      "artist": "",
-      "file": "42. 「春日影」- アニメ「BanG Dream! It's MyGO!!!!!」挿入歌.mid"
+      "artist": "BanG Dream! It's MyGO!!!!!",
+      "file": "42. 春日影 - BanG Dream! It's MyGO!!!!! - BanG Dream! It's MyGO!!!!! OST.mid"
     },
     {
       "id": 43,
       "name": "愛言葉III",
       "artist": "DECO27",
-      "file": "43. 愛言葉III - DECO27.mid"
+      "file": "43. 愛言葉III - DECO27 - DECO＊27专辑.mid"
     },
     {
       "id": 44,
       "name": "命に嫌われている",
-      "artist": "",
-      "file": "44. 命に嫌われている.mid"
+      "artist": "25時、ナイトコードで。",
+      "file": "44. 命に嫌われている (被生命所厌恶) - 25時、ナイトコードで。 - Project SEKAI OST.mid"
     },
     {
       "id": 45,
       "name": "远航星的告别",
-      "artist": "",
-      "file": "45. 远航星的告别.mid"
+      "artist": "鸣潮",
+      "file": "45. 远航星的告别 - 鸣潮 - 鸣潮 OST.mid"
     },
     {
       "id": 46,
       "name": "虹之间",
-      "artist": "",
-      "file": "46. 虹之间.mid"
+      "artist": "金贵晟",
+      "file": "46. 虹之间 - 金贵晟 - 虹之间.mid"
     },
     {
       "id": 47,
       "name": "戒烟",
-      "artist": "",
-      "file": "47. 戒烟.mid"
+      "artist": "李荣浩",
+      "file": "47. 戒烟 - 李荣浩 - 有理想.mid"
     },
     {
       "id": 48,
       "name": "知我",
-      "artist": "动画《剑来》片尾曲",
-      "file": "48. 知我 - 动画《剑来》片尾曲.mid"
+      "artist": "国风堂",
+      "file": "48. 知我 - 国风堂 - 剑来 OST.mid"
     },
     {
       "id": 49,
       "name": "Call of silence",
       "artist": "泽野弘之",
-      "file": "49. Call of silence - 泽野弘之.mid"
+      "file": "49. Call of silence - 泽野弘之 - 进击的巨人 OST.mid"
     },
     {
       "id": 50,
       "name": "Cry For Me (feat. Ami)",
-      "artist": "",
-      "file": "50. Cry For Me (feat. Ami).mid"
+      "artist": "michita",
+      "file": "50. cry for me - michita - Cry For Me.mid"
     },
     {
       "id": 51,
       "name": "DIAMONDS",
       "artist": "Rihanna",
-      "file": "51. DIAMONDS - Rihanna.mid"
+      "file": "51. DIAMONDS - Rihanna - Anti.mid"
     },
     {
       "id": 52,
       "name": "Running Up That Hill",
       "artist": "Kate Bush",
-      "file": "52. Running Up That Hill - Kate Bush.mid"
+      "file": "52. Running Up That Hill - Kate Bush - Hounds of Love.mid"
     },
     {
       "id": 53,
       "name": "KiLLKiSS",
-      "artist": "",
-      "file": "53. KiLLKiSS.mid"
+      "artist": "AveMujica",
+      "file": "53. killkiss - AveMujica - BanG Dream! Ave Mujica.mid"
     },
     {
       "id": 54,
       "name": "致以无名的抗争者",
-      "artist": "",
-      "file": "54. 致以无名的抗争者.mid"
+      "artist": "鸣潮",
+      "file": "54. 致以无名的抗争者 - 鸣潮 - 鸣潮 OST.mid"
     },
     {
       "id": 55,
       "name": "JANE DOE",
-      "artist": "",
-      "file": "55. JANE DOE.mid"
+      "artist": "米津玄师",
+      "file": "55. JANE DOE - 米津玄师 - STRAY SHEEP.mid"
     },
     {
       "id": 56,
       "name": "偏爱",
       "artist": "张芸京",
-      "file": "56. 偏爱 - 张芸京.mid"
+      "file": "56. 偏爱 - 张芸京 - 偏爱.mid"
     },
     {
       "id": 57,
       "name": "团子大家族",
-      "artist": "CLANNAD",
-      "file": "57. 团子大家族 - CLANNAD.mid"
+      "artist": "茶太",
+      "file": "57. 团子大家族 - 茶太 - CLANNAD OST.mid"
     },
     {
       "id": 58,
       "name": "情花",
       "artist": "本兮",
-      "file": "58. 情花 - 本兮.mid"
+      "file": "58. 情花 - 本兮 - 情花.mid"
     },
     {
       "id": 59,
       "name": "Toxic till the end",
-      "artist": "",
-      "file": "59. Toxic till the end.mid"
+      "artist": "Rosé",
+      "file": "59. toxic till the end - Rosé - rosie.mid"
     },
     {
       "id": 60,
       "name": "secret base ~君がくれたもの~ 未闻花名",
-      "artist": "",
-      "file": "60. secret base ~君がくれたもの~ 未闻花名.mid"
+      "artist": "芽野爱衣／早见沙织",
+      "file": "60. 未闻花名 - 芽野爱衣／早见沙织 - 未闻花名 OST.mid"
     },
     {
       "id": 61,
       "name": "唯一",
       "artist": "邓紫棋",
-      "file": "61. 唯一 - 邓紫棋.mid"
+      "file": "61. 唯一 - 邓紫棋 - 启示录.mid"
     },
     {
       "id": 62,
       "name": "天空没有极限",
       "artist": "邓紫棋",
-      "file": "62. 天空没有极限 - 邓紫棋.mid"
+      "file": "62. 天空没有极限 - 邓紫棋 - 启示录.mid"
     },
     {
       "id": 63,
       "name": "心做し",
-      "artist": "Majiko",
-      "file": "63. 心做し - Majiko.mid"
+      "artist": "双笙",
+      "file": "63. 心做し - 双笙 - 心做し.mid"
     },
     {
       "id": 64,
       "name": "アンノウン・マザーグース",
-      "artist": "鹅妈妈",
-      "file": "64. アンノウン・マザーグース - 鹅妈妈.mid"
+      "artist": "wowaka、初音未来",
+      "file": "64. アンノウン・マザーグース (不为人知的鹅妈妈童谣) - wowaka、初音未来 - 初音未来名曲.mid"
     },
     {
       "id": 65,
       "name": "Departures ~あなたにおくるアイの歌",
-      "artist": "",
-      "file": "65. Departures ~あなたにおくるアイの歌.mid"
+      "artist": "EGOIST",
+      "file": "65. Departures ～あなたにおくるアイの歌～ - EGOIST - Guilty Crown OST.mid"
     },
     {
       "id": 66,
       "name": "Liszt Réminiscences de Don Juan",
-      "artist": "",
-      "file": "66. Liszt Réminiscences de Don Juan.mid"
+      "artist": "Liszt",
+      "file": "66. Liszt Réminiscences de Don Juan - Liszt - 古典名曲.mid"
     },
     {
       "id": 67,
       "name": "Miku",
-      "artist": "",
-      "file": "67. Miku.mid"
+      "artist": "初音未来、Anamanaguchi",
+      "file": "67. Miku - 初音未来、Anamanaguchi - 初音未来名曲.mid"
     },
     {
       "id": 68,
       "name": "Mr Broken Heart",
-      "artist": "",
-      "file": "68. Mr Broken Heart.mid"
+      "artist": "松下優也",
+      "file": "68. Mr. ＂Broken Heart＂ - 松下優也 - Mr. Broken Heart.mid"
     },
     {
       "id": 69,
       "name": "ワールドイズマイン",
-      "artist": "",
-      "file": "69. ワールドイズマイン.mid"
+      "artist": "初音未来",
+      "file": "69. ワールドイズマイン (World is Mine) - 初音未来 - 初音未来名曲.mid"
     },
     {
       "id": 70,
       "name": "六兆年と一夜物语",
-      "artist": "",
-      "file": "70. 六兆年と一夜物语.mid"
+      "artist": "Leo／need",
+      "file": "70. 六兆年と一夜物语 - Leo／need - Project SEKAI OST.mid"
     },
     {
       "id": 71,
       "name": "冬日",
       "artist": "鞠婧炜",
-      "file": "71. 冬日 - 鞠婧炜.mid"
+      "file": "71. 冬日 - 鞠婧炜 - 冬日.mid"
     },
     {
       "id": 72,
       "name": "千本樱",
-      "artist": "",
-      "file": "72. 千本樱.mid"
+      "artist": "黒うさP",
+      "file": "72. 千本樱 (千本桜) - 黒うさP - 初音未来名曲.mid"
     },
     {
       "id": 73,
       "name": "情绪回收站",
-      "artist": "",
-      "file": "73. 情绪回收站.mid"
+      "artist": "失落花园_",
+      "file": "73. 情绪回收站 - 失落花园_ - 失落花园.mid"
     },
     {
       "id": 74,
       "name": "我的悲伤是水做的",
-      "artist": "",
-      "file": "74. 我的悲伤是水做的.mid"
+      "artist": "ChiliChill乐团",
+      "file": "74. 我的悲伤是水做的 - ChiliChill乐团 - 我的悲伤是水做的.mid"
     },
     {
       "id": 75,
       "name": "空の箱",
-      "artist": "",
-      "file": "75. 空の箱.mid"
+      "artist": "トゲナシトゲアリ",
+      "file": "75. 空の箱 (井芹仁菜、河原木桃香) - トゲナシトゲアリ - GIRLS BAND CRY OST.mid"
     },
     {
       "id": 76,
       "name": "色は匂へど 散りぬるを",
-      "artist": "东方project 幻想万华镜 主题曲",
-      "file": "76. 色は匂へど 散りぬるを - 东方project 幻想万华镜 主题曲.mid"
+      "artist": "千華缭乱／幽闭星光",
+      "file": "76. 色は匂へど 散りぬるを (花朵艳丽 终会散落) (Loud mix) - 千華缭乱／幽闭星光 - 东方Project 幻想万华镜.mid"
     },
     {
       "id": 77,
       "name": "蜘蛛糸モノポリー",
-      "artist": "蜘蛛丝Monopoly",
-      "file": "77. 蜘蛛糸モノポリー - 蜘蛛丝Monopoly.mid"
+      "artist": "初音未来",
+      "file": "77. 蜘蛛糸モノポリー (蜘蛛丝Monopoly) - 初音未来 - 初音未来名曲.mid"
     },
     {
       "id": 78,
       "name": "Childhood Dreams",
-      "artist": "",
-      "file": "78. Childhood Dreams.mid"
+      "artist": "Seraphine",
+      "file": "78. Childhood Dreams - Seraphine - Childhood Dreams.mid"
     },
     {
       "id": 79,
       "name": "Exile",
       "artist": "Taylor Swift",
-      "file": "79. Exile - Taylor Swift.mid"
+      "file": "79. Exile - Taylor Swift - Red.mid"
     },
     {
       "id": 80,
       "name": "Grievous Lady",
-      "artist": "",
-      "file": "80. Grievous Lady.mid"
+      "artist": "Team Grimoire／Laur",
+      "file": "80. Grievous Lady (from Arcaea) - Team Grimoire／Laur - Arcaea OST.mid"
     },
     {
       "id": 81,
       "name": "Gwyn,Lord of Cinder",
-      "artist": "",
-      "file": "81. Gwyn,Lord of Cinder.mid"
+      "artist": "樱庭统",
+      "file": "81. Gwyn,Lord of Cinder - 樱庭统 - Dark Souls OST.mid"
     },
     {
       "id": 82,
       "name": "Khronostasis Katharsis",
-      "artist": "",
-      "file": "82. Khronostasis Katharsis.mid"
+      "artist": "Halv",
+      "file": "82. Khronostasis Katharsis - Halv - Khronostasis Katharsis.mid"
     },
     {
       "id": 83,
       "name": "Last dance",
       "artist": "Xmou",
-      "file": "83. Last dance - Xmou.mid"
+      "file": "83. Last dance - Xmou - Last Dance.mid"
     },
     {
       "id": 84,
       "name": "Wind Island_风屿",
-      "artist": "",
-      "file": "84. Wind Island_风屿.mid"
+      "artist": "闫东伟",
+      "file": "84. Wind Island_风屿 - 闫东伟 - 风屿.mid"
     },
     {
       "id": 85,
       "name": "number one girl",
-      "artist": "",
-      "file": "85. number one girl.mid"
+      "artist": "Rosé",
+      "file": "85. number one girl - Rosé - rosie.mid"
     },
     {
       "id": 86,
       "name": "孤儿仔（觉得吵关track18）",
-      "artist": "",
-      "file": "86. 孤儿仔（觉得吵关track18）.mid"
+      "artist": "陈奕迅／苦荣",
+      "file": "86. 孤儿仔 - 陈奕迅／苦荣 - 陈奕迅专辑.mid"
     },
     {
       "id": 87,
       "name": "小半",
       "artist": "陈粒",
-      "file": "87. 小半 - 陈粒.mid"
+      "file": "87. 小半 - 陈粒 - 小半.mid"
     },
     {
       "id": 88,
       "name": "心忆 Remembrance of the Heart",
-      "artist": "",
-      "file": "88. 心忆 Remembrance of the Heart.mid"
+      "artist": "HOYO",
+      "file": "88. 心忆 Remembrance of the Heart - HOYO - 崩坏：星穹铁道 OST.mid"
     },
     {
       "id": 89,
       "name": "昔涟",
-      "artist": "",
-      "file": "89. 昔涟.mid"
+      "artist": "miHoYo",
+      "file": "89. 昔涟 - miHoYo - 崩坏：星穹铁道 OST.mid"
     },
     {
       "id": 90,
       "name": "春弦",
-      "artist": "明日方舟Arknights",
-      "file": "90. 春弦 - 明日方舟Arknights.mid"
+      "artist": "塞壬唱片",
+      "file": "90. 春弦 - 塞壬唱片 - 明日方舟 OST.mid"
     },
     {
       "id": 91,
       "name": "永远不回头",
-      "artist": "飞驰人生3插曲",
-      "file": "91. 永远不回头 - 飞驰人生3插曲.mid"
+      "artist": "沈腾、尹正、黄景瑜、张本煜、魏翔",
+      "file": "91. 永远不回头 - 沈腾、尹正、黄景瑜、张本煜、魏翔 - 飞驰人生3 OST.mid"
     },
     {
       "id": 92,
       "name": "神のまにまに",
-      "artist": "",
-      "file": "92. 神のまにまに.mid"
+      "artist": "初音未来",
+      "file": "92. 神のまにまに(神的随波逐流) - 初音未来 - 初音未来名曲.mid"
     },
     {
       "id": 93,
       "name": "苦瓜",
       "artist": "陈奕迅",
-      "file": "93. 苦瓜 - 陈奕迅.mid"
+      "file": "93. 苦瓜 - 陈奕迅 - 米·闪.mid"
     },
     {
       "id": 94,
       "name": "酣梦于彼岸深红",
-      "artist": "",
-      "file": "94. 酣梦于彼岸深红.mid"
+      "artist": "鸣潮",
+      "file": "94. 酣梦于彼岸深红 - 鸣潮 - 鸣潮 OST.mid"
     },
     {
       "id": 95,
       "name": "麦恩莉",
       "artist": "方大同",
-      "file": "95. 麦恩莉 - 方大同.mid"
+      "file": "95. 麦恩莉 - 方大同 - 橙月.mid"
     },
     {
       "id": 96,
       "name": "Bohemian Rhapsody（波西米亚狂想曲）",
-      "artist": "",
-      "file": "96. Bohemian Rhapsody（波西米亚狂想曲）.mid"
+      "artist": "QUEEN",
+      "file": "96. Bohemian Rhapsody（波西米亚狂想曲） - QUEEN - A Night at the Opera.mid"
     },
     {
       "id": 97,
       "name": "Da Capo",
-      "artist": "",
-      "file": "97. Da Capo.mid"
+      "artist": "miHoYo",
+      "file": "97. Da Capo - miHoYo - 崩坏：星穹铁道 OST.mid"
     },
     {
       "id": 98,
       "name": "Fly, My Wings",
-      "artist": "",
-      "file": "98. Fly, My Wings.mid"
+      "artist": "Mili",
+      "file": "98. Fly, My Wings - Mili - Mili专辑.mid"
     },
     {
       "id": 99,
       "name": "MELT",
-      "artist": "Hatsune Miku Vocaloid",
-      "file": "99. MELT - Hatsune Miku Vocaloid.mid"
+      "artist": "ryo／初音未来",
+      "file": "99. Melt - ryo／初音未来 - 初音未来名曲.mid"
+    },
+    {
+      "id": 142,
+      "name": "我们俩",
+      "artist": "郭顶",
+      "file": "142. 我们俩 - 郭顶 - ZHENG DONG.nmf"
+    },
+    {
+      "id": 143,
+      "name": "だから僕は音楽を辞めた",
+      "artist": "ヨルシカ",
+      "file": "143. だから僕は音楽を辞めた - ヨルシカ - だから僕は音楽を辞めた.nmf"
+    },
+    {
+      "id": 144,
+      "name": "雨とカプチーノ",
+      "artist": "ヨルシカ",
+      "file": "144. 雨とカプチーノ - ヨルシカ - エルマ.nmf"
+    },
+    {
+      "id": 145,
+      "name": "nop",
+      "artist": "陈越龙",
+      "file": "145. nop - 陈越龙.nmf"
+    },
+    {
+      "id": 146,
+      "name": "核爆神曲",
+      "artist": "泽野弘之",
+      "file": "146. 核爆神曲 - 泽野弘之 - 进击的巨人 OST.nmf"
+    },
+    {
+      "id": 147,
+      "name": "指纹",
+      "artist": "胡歌",
+      "file": "147. 指纹 - 胡歌 - 仙剑奇侠传3 OST.nmf"
+    },
+    {
+      "id": 148,
+      "name": "喜帖街",
+      "artist": "谢安琪",
+      "file": "148. 喜帖街 - 谢安琪 - 喜帖街.nmf"
+    },
+    {
+      "id": 149,
+      "name": "Here to Stay",
+      "artist": "鷺巣詩郎",
+      "file": "149. Here to Stay - 鷺巣詩郎 - BLEACH OST.nmf"
+    },
+    {
+      "id": 150,
+      "name": "言って",
+      "artist": "ヨルシカ",
+      "file": "150. 言って - ヨルシカ - だから僕は音楽を辞めた.nmf"
+    },
+    {
+      "id": 151,
+      "name": "Gone Angels",
+      "artist": "Mili",
+      "file": "151. Gone Angels - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 152,
+      "name": "In Hell We Live, Lament",
+      "artist": "Mili",
+      "file": "152. In Hell We Live, Lament - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 153,
+      "name": "对不起",
+      "artist": "周杰伦",
+      "file": "153. 对不起 - 周杰伦 - Jay.nmf"
+    },
+    {
+      "id": 154,
+      "name": "Counter Attack",
+      "artist": "ILLBlAUER",
+      "file": "154. Counter Attack - ILLBlAUER - 进击的巨人 OST.nmf"
+    },
+    {
+      "id": 155,
+      "name": "诀别书",
+      "artist": "邓垚",
+      "file": "155. 诀别书 - 邓垚 - 诀别书.nmf"
+    },
+    {
+      "id": 156,
+      "name": "Compass",
+      "artist": "Mili",
+      "file": "156. Compass - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 157,
+      "name": "Through Patches of Violet",
+      "artist": "Mili",
+      "file": "157. Through Patches of Violet - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 158,
+      "name": "Hero",
+      "artist": "Mili",
+      "file": "158. Hero - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 159,
+      "name": "Shelter (Piano version)",
+      "artist": "Porter Robinson/Madeon",
+      "file": "159. Shelter (Piano version) - Porter Robinson／Madeon - Shelter.nmf"
+    },
+    {
+      "id": 160,
+      "name": "Between Two Worlds",
+      "artist": "Mili",
+      "file": "160. Between Two Worlds - Mili - Library of Ruina OST.nmf"
+    },
+    {
+      "id": 161,
+      "name": "你的记忆",
+      "artist": "川村ゆみ",
+      "file": "161. 你的记忆 - 川村ゆみ - Persona 3 OST.nmf"
+    },
+    {
+      "id": 162,
+      "name": "Tian Tian",
+      "artist": "Mili",
+      "file": "162. Tian Tian - Mili - Mili专辑.nmf"
+    },
+    {
+      "id": 163,
+      "name": "再度和你",
+      "artist": "HOYO-MiX",
+      "file": "163. 再度和你 - HOYO-MiX - 再度和你.nmf"
+    },
+    {
+      "id": 164,
+      "name": "恋人",
+      "artist": "李荣浩",
+      "file": "164. 恋人 - 李荣浩 - 有理想.nmf"
+    },
+    {
+      "id": 165,
+      "name": "难得真兄弟",
+      "artist": "何流/宋晓峰",
+      "file": "165. 难得真兄弟 - 何流／宋晓峰 - 难得真兄弟.nmf"
+    },
+    {
+      "id": 166,
+      "name": "陀飞轮",
+      "artist": "陈奕迅",
+      "file": "166. 陀飞轮 - 陈奕迅 - Time Flies.nmf"
+    },
+    {
+      "id": 167,
+      "name": "AIZO",
+      "artist": "King Gnu",
+      "file": "167. AIZO - King Gnu - 咒术回战 OST.nmf"
+    },
+    {
+      "id": 168,
+      "name": "Euterpe",
+      "artist": "EGOIST",
+      "file": "168. Euterpe - EGOIST - EGOIST专辑.nmf"
+    },
+    {
+      "id": 169,
+      "name": "你在看孤独的风景",
+      "artist": "本兮",
+      "file": "169. 你在看孤独的风景 - 本兮 - 你在看孤独的风景.nmf"
+    },
+    {
+      "id": 170,
+      "name": "冬がくれた予感",
+      "artist": "bibi",
+      "file": "170. 冬がくれた予感 - bibi - 冬がくれた予感.nmf"
+    },
+    {
+      "id": 171,
+      "name": "勋章",
+      "artist": "鹿晗",
+      "file": "171. 勋章 - 鹿晗 - 勋章.nmf"
+    },
+    {
+      "id": 172,
+      "name": "单车",
+      "artist": "陈奕迅",
+      "file": "172. 单车 - 陈奕迅 - The Key.nmf"
+    },
+    {
+      "id": 173,
+      "name": "菊次郎的夏天",
+      "artist": "久石让",
+      "file": "173. 菊次郎的夏天 - 久石让 - 菊次郎的夏天 OST.nmf"
+    },
+    {
+      "id": 174,
+      "name": "渐渐被你吸引",
+      "artist": "Field of View",
+      "file": "174. 渐渐被你吸引 - Field of View - Dragon Ball GT OST.nmf"
+    },
+    {
+      "id": 175,
+      "name": "一吻天荒",
+      "artist": "胡歌",
+      "file": "175. 一吻天荒 - 胡歌 - 一吻天荒.nmf"
     }
   ],
   "failed": []
