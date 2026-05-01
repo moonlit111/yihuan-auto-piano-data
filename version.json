@@ -1,6 +1,6 @@
 {
   "latest_version": "1.5.1",
-  "download_url": "",
+  "download_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases/download/songs/NTE_Piano_player.exe",
   "release_url": "https://github.com/moonlit111/Yihuan-Auto-Piano/releases/tag/v1.5.1",
   "changelog": "v1.5.1 更新说明：\n1. 新增29首曲目（含群友上传）\n2. 曲库已加密保护，请先更新客户端再下载曲目包！\n3. 修复安卓端导入文件问题\n\n⚠️ 重要：请先更新到v1.5.1，再更新曲目包，否则加密曲目无法播放。"
 }
