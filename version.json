@@ -2,5 +2,5 @@
   "latest_version": "1.5.2",
   "download_url": "https://gitee.com/kgiteemom/yihuan-auto-piano-data/releases/download/songs/NTE_Piano_player.exe",
   "release_url": "https://github.com/moonlit111/Yihuan-Auto-Piano/releases/tag/v1.5.2",
-  "changelog": "v1.5.2 更新说明：\n1. 新增34首曲目（#142-#175）\n2. 启动时自动检测重复歌曲并提示清理\n3. 曲库已加密保护\n\n⚠️ 重要：请先更新到v1.5.2，再更新曲目包，否则加密曲目无法播放。"
+  "changelog": "v1.5.2 更新说明：\n1. 新增58首曲目（#176-#233）\n2. 启动时自动检测重复歌曲并提示清理\n3. 曲库已加密保护\n\n⚠️ 重要：请先更新到v1.5.2，再更新曲目包，否则加密曲目无法播放。"
 }

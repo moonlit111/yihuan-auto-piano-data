@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "notice": "本曲库MIDI文件来源于Midishow，由NTE Piano Player项目整理、调整编排。版权归原曲作者及编曲者所有。本曲库仅供NTE Piano Player用户个人使用，禁止任何形式的搬运、再分发或商业用途。如有版权问题请联系删除。",
   "songs": [
     {
@@ -1051,6 +1051,354 @@
       "name": "一吻天荒",
       "artist": "胡歌",
       "file": "175. 一吻天荒 - 胡歌 - 一吻天荒.nmf"
+    },
+    {
+      "id": 176,
+      "name": "FIRE BIRD",
+      "artist": "ROSELIA",
+      "file": "176. FIRE BIRD - ROSELIA - BanG Dream！.nmf"
+    },
+    {
+      "id": 177,
+      "name": "FindersX（轮回）",
+      "artist": "跳舞的线 BGM",
+      "file": "177. FindersX（轮回） - 跳舞的线 BGM.nmf"
+    },
+    {
+      "id": 178,
+      "name": "Gate of Steiner (命运石之门)",
+      "artist": "阿保剛",
+      "file": "178. Gate of Steiner (命运石之门) - 阿保剛 - STEINS；GATE OST.nmf"
+    },
+    {
+      "id": 179,
+      "name": "Komorebi (木漏れ日)",
+      "artist": "M-TAKU",
+      "file": "179. Komorebi (木漏れ日) - M-TAKU.nmf"
+    },
+    {
+      "id": 180,
+      "name": "Memento",
+      "artist": "nonoc (ののこ)",
+      "file": "180. Memento - nonoc (ののこ) - 从零开始的异世界生活2 ED.nmf"
+    },
+    {
+      "id": 181,
+      "name": "Memoria",
+      "artist": "藍井エイル (Eir Aoi)",
+      "file": "181. Memoria - 藍井エイル (Eir Aoi) - Fate／Zero ED.nmf"
+    },
+    {
+      "id": 182,
+      "name": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "file": "182. STYX HELIX - MYTH & ROID - 从零开始的异世界生活 ED.nmf"
+    },
+    {
+      "id": 183,
+      "name": "UNICORN",
+      "artist": "澤野弘之 (Hiroyuki Sawano)",
+      "file": "183. UNICORN - 澤野弘之 (Hiroyuki Sawano) - 机动战士高达UC OST.nmf"
+    },
+    {
+      "id": 184,
+      "name": "Una Mattina",
+      "artist": "Ludovico Einaudi",
+      "file": "184. Una Mattina - Ludovico Einaudi - Una Mattina.nmf"
+    },
+    {
+      "id": 185,
+      "name": "YOU",
+      "artist": "片霧烈火",
+      "file": "185. YOU - 片霧烈火 - 寒蝉鸣泣之时 ED.nmf"
+    },
+    {
+      "id": 186,
+      "name": "Young and Beautiful (年轻与美丽)",
+      "artist": "Lana Del Rey",
+      "file": "186. Young and Beautiful (年轻与美丽) - Lana Del Rey - 了不起的盖茨比 OST.nmf"
+    },
+    {
+      "id": 187,
+      "name": "一吻天荒",
+      "artist": "胡歌",
+      "file": "187. 一吻天荒 - 胡歌 - 轩辕剑之天之痕 OST.nmf"
+    },
+    {
+      "id": 188,
+      "name": "不能说的秘密",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "188. 不能说的秘密 - 周杰伦 (Jay Chou) - 不能说的秘密 OST.nmf"
+    },
+    {
+      "id": 189,
+      "name": "使一颗心免于哀伤",
+      "artist": "知更鸟／HOYO-MiX／Chevy",
+      "file": "189. 使一颗心免于哀伤 - 知更鸟／HOYO-MiX／Chevy - 崩坏星穹铁道.nmf"
+    },
+    {
+      "id": 190,
+      "name": "实现梦想的哆啦A梦 (夢をかなえてドラえもん)",
+      "artist": "mao",
+      "file": "190. 实现梦想的哆啦A梦 (夢をかなえてドラえもん) - mao - 哆啦A梦 OP.nmf"
+    },
+    {
+      "id": 191,
+      "name": "感谢你曾来过",
+      "artist": "Ayo97／周思涵",
+      "file": "191. 感谢你曾来过 - Ayo97／周思涵.nmf"
+    },
+    {
+      "id": 192,
+      "name": "我是真的爱上你",
+      "artist": "王杰 (Dave Wang)",
+      "file": "192. 我是真的爱上你 - 王杰 (Dave Wang) - 爱与梦.nmf"
+    },
+    {
+      "id": 193,
+      "name": "指纹",
+      "artist": "胡歌",
+      "file": "193. 指纹 - 胡歌 - 轩辕剑之天之痕 OST.nmf"
+    },
+    {
+      "id": 194,
+      "name": "搁浅",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "194. 搁浅 - 周杰伦 (Jay Chou) - 七里香.nmf"
+    },
+    {
+      "id": 195,
+      "name": "最后一页",
+      "artist": "江语晨",
+      "file": "195. 最后一页 - 江语晨 - 恋习.nmf"
+    },
+    {
+      "id": 196,
+      "name": "梦灯笼 (夢灯籠)",
+      "artist": "RADWIMPS",
+      "file": "196. 梦灯笼 (夢灯籠) - RADWIMPS - 你的名字 OST.nmf"
+    },
+    {
+      "id": 197,
+      "name": "爱你没差",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "197. 爱你没差 - 周杰伦 (Jay Chou) - 12新作.nmf"
+    },
+    {
+      "id": 198,
+      "name": "爱琴海",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "198. 爱琴海 - 周杰伦 (Jay Chou) - 太阳之子.nmf"
+    },
+    {
+      "id": 199,
+      "name": "等你下课",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "199. 等你下课 - 周杰伦 (Jay Chou).nmf"
+    },
+    {
+      "id": 200,
+      "name": "至少还有你",
+      "artist": "林忆莲 (Sandy Lam)",
+      "file": "200. 至少还有你 - 林忆莲 (Sandy Lam).nmf"
+    },
+    {
+      "id": 201,
+      "name": "说好的幸福呢",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "201. 说好的幸福呢 - 周杰伦 (Jay Chou) - 魔杰座.nmf"
+    },
+    {
+      "id": 202,
+      "name": "还是分开",
+      "artist": "张叶蕾",
+      "file": "202. 还是分开 - 张叶蕾.nmf"
+    },
+    {
+      "id": 203,
+      "name": "远い空へ (飞向遥远的天空)",
+      "artist": "缘之空 (ヨスガノソラ) BGM",
+      "file": "203. 远い空へ (飞向遥远的天空) - 缘之空 (ヨスガノソラ) BGM.nmf"
+    },
+    {
+      "id": 204,
+      "name": "遇见",
+      "artist": "孙燕姿 (Stefanie Sun)",
+      "file": "204. 遇见 - 孙燕姿 (Stefanie Sun) - 未完成.nmf"
+    },
+    {
+      "id": 205,
+      "name": "那天下雨了",
+      "artist": "周杰伦 (Jay Chou)",
+      "file": "205. 那天下雨了 - 周杰伦 (Jay Chou) - 太阳之子.nmf"
+    },
+    {
+      "id": 206,
+      "name": "鉄道唱歌",
+      "artist": "大和田建樹(词)／多梅稚(曲)",
+      "file": "206. 鉄道唱歌 - 大和田建樹(词)／多梅稚(曲).nmf"
+    },
+    {
+      "id": 207,
+      "name": "鸟之诗 (鳥の詩)",
+      "artist": "Lia",
+      "file": "207. 鸟之诗 (鳥の詩) - Lia - AIR OP.nmf"
+    },
+    {
+      "id": 208,
+      "name": "Call of Silence",
+      "artist": "",
+      "file": "208. [群上传] Call of Silence.nmf"
+    },
+    {
+      "id": 209,
+      "name": "Color Your Night (Sol",
+      "artist": "",
+      "file": "209. [群上传] Color Your Night (Sol.nmf"
+    },
+    {
+      "id": 210,
+      "name": "Cras numquam scire",
+      "artist": "",
+      "file": "210. [群上传] Cras numquam scire.nmf"
+    },
+    {
+      "id": 211,
+      "name": "Kan Gao",
+      "artist": "Faye's Theme",
+      "file": "211. [群上传] Kan Gao - Faye's Theme - Live Arrangement.nmf"
+    },
+    {
+      "id": 212,
+      "name": "Mice on Venus",
+      "artist": "",
+      "file": "212. [群上传] Mice on Venus.nmf"
+    },
+    {
+      "id": 213,
+      "name": "My Dearest (1)",
+      "artist": "",
+      "file": "213. [群上传] My Dearest (1).nmf"
+    },
+    {
+      "id": 214,
+      "name": "My Dearest",
+      "artist": "",
+      "file": "214. [群上传] My Dearest.nmf"
+    },
+    {
+      "id": 215,
+      "name": "Never Gonna Give You",
+      "artist": "",
+      "file": "215. [群上传] Never Gonna Give You.nmf"
+    },
+    {
+      "id": 216,
+      "name": "To The Moon",
+      "artist": "Theme",
+      "file": "216. [群上传] To The Moon - Theme.nmf"
+    },
+    {
+      "id": 217,
+      "name": "Your Reality",
+      "artist": "",
+      "file": "217. [群上传] Your Reality.nmf"
+    },
+    {
+      "id": 218,
+      "name": "【A神钢琴改】Departures",
+      "artist": "罪恶王冠 ED1",
+      "file": "218. [群上传] 【A神钢琴改】Departures - 罪恶王冠 ED1.nmf"
+    },
+    {
+      "id": 219,
+      "name": "【A神钢琴改】My Dearest 罪恶王冠 OP",
+      "artist": "",
+      "file": "219. [群上传] 【A神钢琴改】My Dearest 罪恶王冠 OP.nmf"
+    },
+    {
+      "id": 220,
+      "name": "【A神钢琴改】打上花火",
+      "artist": "",
+      "file": "220. [群上传] 【A神钢琴改】打上花火.nmf"
+    },
+    {
+      "id": 221,
+      "name": "【A神钢琴改】罪惡王冠 OP2",
+      "artist": "",
+      "file": "221. [群上传] 【A神钢琴改】罪惡王冠 OP2.nmf"
+    },
+    {
+      "id": 222,
+      "name": "【明日方舟】危机合约：利刃行动主题曲《Art of BladeOperation Blade》",
+      "artist": "陈雪燃",
+      "file": "222. [群上传] 【明日方舟】危机合约：利刃行动主题曲《Art of BladeOperation Blade》 - 陈雪燃.nmf"
+    },
+    {
+      "id": 223,
+      "name": "七里香",
+      "artist": "",
+      "file": "223. [群上传] 七里香.nmf"
+    },
+    {
+      "id": 224,
+      "name": "和重逢系少女相遇该怎么办？",
+      "artist": "",
+      "file": "224. [群上传] 和重逢系少女相遇该怎么办？.nmf"
+    },
+    {
+      "id": 225,
+      "name": "声嘶力竭",
+      "artist": "",
+      "file": "225. [群上传] 声嘶力竭.nmf"
+    },
+    {
+      "id": 226,
+      "name": "情绪回收站超长版",
+      "artist": "",
+      "file": "226. [群上传] 情绪回收站超长版.nmf"
+    },
+    {
+      "id": 227,
+      "name": "愿戴荣光坠入天渊 (1)",
+      "artist": "",
+      "file": "227. [群上传] 愿戴荣光坠入天渊 (1).nmf"
+    },
+    {
+      "id": 228,
+      "name": "手写的从前",
+      "artist": "",
+      "file": "228. [群上传] 手写的从前.nmf"
+    },
+    {
+      "id": 229,
+      "name": "搁浅",
+      "artist": "",
+      "file": "229. [群上传] 搁浅.nmf"
+    },
+    {
+      "id": 230,
+      "name": "星星和我们",
+      "artist": "",
+      "file": "230. [群上传] 星星和我们.nmf"
+    },
+    {
+      "id": 231,
+      "name": "枫 (1",
+      "artist": "",
+      "file": "231. [群上传] 枫 (1.nmf"
+    },
+    {
+      "id": 232,
+      "name": "花海",
+      "artist": "",
+      "file": "232. [群上传] 花海.nmf"
+    },
+    {
+      "id": 233,
+      "name": "鳥の詩",
+      "artist": "",
+      "file": "233. [群上传] 鳥の詩.nmf"
     }
   ],
   "failed": []
